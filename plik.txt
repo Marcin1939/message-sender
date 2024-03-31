@@ -1,0 +1,6 @@
+<div class="user1 message"><div class="message">
+Witam serdecznie!</div></div><div class="user2 message"><div class="message">
+Również witam szanownego pana!</div></div><div class="user1 message"><div class="message">
+Co słychać w Waszych rodzinnych stronach?</div></div><div class="user2 message"><div class="message">
+Jest dobrze :)</div></div><div class="user1 message"><div class="message">
+To dobrze :D</div></div>
